@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Entregas/Entregas.iml" filepath="$PROJECT_DIR$/Entregas/Entregas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Introduccion a la programación.iml" filepath="$PROJECT_DIR$/.idea/Introduccion a la programación.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entregas/Tema8/Tema8.iml" filepath="$PROJECT_DIR$/Entregas/Tema8/Tema8.iml" />
     </modules>
   </component>
 </project>
